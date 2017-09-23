@@ -1,0 +1,8 @@
+*.pdf
+*.log
+*.var
+*.bak
+*.pref
+*.halscope
+.tmp*
+*~
